@@ -1,0 +1,1 @@
+<a href="mailto:info@yanicode.ru">info@yanicode.ru</a>
